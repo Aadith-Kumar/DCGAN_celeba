@@ -1,1 +1,3 @@
-# DCGAN_celeba
+# DCGAN_celebA
+
+Description availbie in the uploaded PDF
